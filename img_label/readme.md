@@ -1,7 +1,7 @@
 文件结构：
 
 ```text
-dataset
+img_label
 ├── original
 │   ├── class1
 │   ├── class2
